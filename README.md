@@ -2,9 +2,9 @@
 
 *Company*: CODTECH IT SOLUTIONS
 
-*Name*: G Sai Jaswanth
+*Name*: B Thanusha
 
-*Intern ID*:CT06DY237
+*Intern ID*:CT06DY340
 
 *Domain*: Java Programming
 
